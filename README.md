@@ -73,7 +73,7 @@ Durante cada ejecución se registraron:
 
 Actividad5/
 │
-├── actividad5_mlflow_titanic.ipynb
+├── Actividad_5_Gestion_de_Proyectos_de_IA.ipynb
 ├── README.md
 ├── evidencias/
 └── reporte_tecnico.pdf
