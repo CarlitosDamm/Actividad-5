@@ -69,15 +69,6 @@ Durante cada ejecución se registraron:
 * Matrices de confusión
 * Artefactos generados
 
-## Estructura del repositorio
-
-Actividad5/
-│
-├── Actividad_5_Gestion_de_Proyectos_de_IA.ipynb
-├── README.md
-├── evidencias/
-└── reporte_tecnico.pdf
-
 ## Reproducción
 
 1. Abrir el notebook en Google Colab.
